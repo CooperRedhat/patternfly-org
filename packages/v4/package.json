@@ -17,8 +17,8 @@
     "screenshots": "pf-docs-framework screenshots"
   },
   "dependencies": {
-    "@patternfly/documentation-framework": "^1.1.22",
-    "@patternfly/react-docs": "5.85.2",
+    "@patternfly/documentation-framework": "^1.1.4",
+    "@patternfly/react-docs": "5.92.2",
     "react": "^16.8.0 || ^17.0.0",
     "react-dom": "^16.8.0 || ^17.0.0"
   },
